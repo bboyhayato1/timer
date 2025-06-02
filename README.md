@@ -2,6 +2,12 @@
 
 シンプルなポモドーロタイマーのウェブアプリケーションです。
 
+## デモ
+
+[![ポモドーロタイマーデモ](https://bboyhayato1.github.io/timer/)](https://bboyhayato1.github.io/timer/)
+
+## 機能
+
 ## 機能
 
 - 作業時間（25分）と休憩時間（5分）の自動切り替え
