@@ -4,7 +4,7 @@
 
 ## デモ
 
-[![ポモドーロタイマーデモ](https://bboyhayato1.github.io/timer/)](https://bboyhayato1.github.io/timer/)
+[![ポモドーロタイマーデモ](https://merry-monstera-3f8a61.netlify.app/)](https://merry-monstera-3f8a61.netlify.app/)
 
 ## 機能
 
